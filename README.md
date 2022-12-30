@@ -5,6 +5,7 @@
 </p>
 
 This is an adapted version of 2048 classic game but with animations, made in react.
+<br>
 <a href="https://fancy-moxie-efdce7.netlify.app/">See Live Demo here.</a>
 
 ## Credits
